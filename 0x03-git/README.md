@@ -1,1 +1,1 @@
-My script
+My script.
